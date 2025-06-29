@@ -10,7 +10,7 @@ public class CaseCheck {
 
 		Scanner input = new Scanner(System.in);
 
-		System.out.println("Enter the chracter");
+		System.out.println("Enter the character");
 
 		char ch = input.next().trim().charAt(0); // this is how to take char as input in Java
 

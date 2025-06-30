@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="Conditionals">
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/CountingOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Arguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/ChangeValue_Original.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/ChangeValue_Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Shadowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Switch/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Switch/Weekdays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/CaseCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/CaseCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Baisc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Baisc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PerfectNumber">
-    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Conditionals.Armstrong" />
+  <component name="RunManager" selected="Application.VarArgs">
+    <configuration name="Arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.Arguments" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Conditionals.*" />
+          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Conditionals.Calculator" />
+    <configuration name="ChangeValue_Original" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.ChangeValue_Original" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Conditionals.*" />
+          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Conditionals.CountingOccurrences" />
+    <configuration name="ChangeValue_Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.ChangeValue_Swap" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Conditionals.*" />
+          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Conditionals.PerfectNumber" />
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.Methods" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Conditionals.*" />
+          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Conditionals.Reverse" />
+    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.VarArgs" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Conditionals.*" />
+          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.Armstrong" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.CountingOccurrences" />
+        <item itemvalue="Application.VarArgs" />
+        <item itemvalue="Application.ChangeValue_Original" />
+        <item itemvalue="Application.ChangeValue_Swap" />
+        <item itemvalue="Application.Arguments" />
+        <item itemvalue="Application.Methods" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751096148025</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Conditionals">
+      <created>1751215593061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751215593061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="Conditionals">
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Arguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/ChangeValue_Original.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/ChangeValue_Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Shadowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Switch/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Switch/Weekdays.java" afterDir="false" />
+    <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment=" Functions and methods">
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/ArrayFormInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/FirstAndLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/FlippingImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/GoodPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/NumbersSmallerThanCurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Pangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Two_D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/nUniqueIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/PrimeBetweenTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/PythagorasTriplets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Baisc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Baisc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Overloading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,32 +47,67 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnshulDubeyap&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnshulDubeyap/Java.git&quot;,
+    &quot;accountId&quot;: &quot;ccd8b6ba-ac56-44b6-b56d-2b2314eea8f2&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2z24qrCWVffXQH9vC008f6FRswr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayFormInteger.executor": "Run",
+    "Application.DynamicArray.executor": "Run",
+    "Application.EvenDigits.executor": "Run",
+    "Application.FlippingImage.executor": "Run",
+    "Application.GoodPairs.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Max.executor": "Run",
+    "Application.MaximumSubArray.executor": "Run",
+    "Application.NumbersSmallerThanCurrent.executor": "Run",
+    "Application.Pangram.executor": "Run",
+    "Application.PrimeBetweenTwoNumbers.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.Shuffle.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.Two_D_Array.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.VarArgs">
-    <configuration name="Arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.Arguments" />
+}]]></component>
+  <component name="RunManager" selected="Application.MaximumSubArray">
+    <configuration name="ArrayFormInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.ArrayFormInteger" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
+          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeValue_Original" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.ChangeValue_Original" />
+    <configuration name="EvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.EvenDigits" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
+          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeValue_Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.ChangeValue_Swap" />
+    <configuration name="FlippingImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.FlippingImage" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
+          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.Methods" />
+    <configuration name="MaximumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.MaximumSubArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
+          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FunctionsandMethods.VarArgs" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.TwoSum" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FunctionsandMethods.*" />
+          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarArgs" />
-        <item itemvalue="Application.ChangeValue_Original" />
-        <item itemvalue="Application.ChangeValue_Swap" />
-        <item itemvalue="Application.Arguments" />
-        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.MaximumSubArray" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.ArrayFormInteger" />
+        <item itemvalue="Application.EvenDigits" />
+        <item itemvalue="Application.FlippingImage" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751215593061</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" Functions and methods">
+      <created>1751296660902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751296660902</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +231,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Java" />
     <MESSAGE value="Conditionals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditionals" />
+    <MESSAGE value=" Functions and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Functions and methods" />
   </component>
 </project>

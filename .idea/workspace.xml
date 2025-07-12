@@ -4,33 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment=" Functions and methods">
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/ArrayFormInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/EvenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/FirstAndLastPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/FlippingImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/GoodPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/MaximumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/NumbersSmallerThanCurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Pangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Shuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Two_D_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/nUniqueIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/PrimeBetweenTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/PythagorasTriplets.java" afterDir="false" />
+    <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="Arrays">
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/BinaryIn2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/FindSmallestGreaterThanTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/KthMissingPositiveInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/MountainPeakValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/NAndItsDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/NegativeNumbersInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/PerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/TargetSumOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/LinearSearch/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/LinearSearch/LinearSearchIn2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/LinearSearch/MinimumIn2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/LinearSearch/WealthiestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/Decryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/DefangIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/EquivalentStringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ExcelSheetTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/HalfStringsAlike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LongPressedWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MaximumRepeatingSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MergeStringsAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ParserInterpretation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ReversePrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ShuffleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/SortTheSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/FunctionsandMethods/Overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Arrays/FirstAndLastPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/FirstAndLastPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Arrays/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Arrays/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Two_D_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Two_D_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,21 +89,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayFormInteger.executor": "Run",
+    "Application.BinaryIn2D.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.Decryption.executor": "Run",
+    "Application.DefangIP.executor": "Run",
     "Application.DynamicArray.executor": "Run",
     "Application.EvenDigits.executor": "Run",
+    "Application.FindSmallestGreaterThanTarget.executor": "Run",
+    "Application.FirstAndLastPosition.executor": "Run",
     "Application.FlippingImage.executor": "Run",
     "Application.GoodPairs.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.LinearSearchIn2D.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Max.executor": "Run",
     "Application.MaximumSubArray.executor": "Run",
+    "Application.MinimumIn2D.executor": "Run",
     "Application.NumbersSmallerThanCurrent.executor": "Run",
     "Application.Pangram.executor": "Run",
+    "Application.ParserInterpretation.executor": "Run",
+    "Application.PerfectSquare.executor": "Run",
     "Application.PrimeBetweenTwoNumbers.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
     "Application.Reverse.executor": "Run",
+    "Application.ReverseWordsInString.executor": "Run",
     "Application.Shuffle.executor": "Run",
+    "Application.ShuffleString.executor": "Run",
+    "Application.SquareRoot.executor": "Run",
     "Application.Swap.executor": "Run",
+    "Application.TargetSumOfTwo.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.Two_D_Array.executor": "Run",
+    "Application.WealthiestPerson.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -101,13 +130,18 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaximumSubArray">
-    <configuration name="ArrayFormInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.ArrayFormInteger" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="AnshulsJava.Searching.BinarySearch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Decryption">
+    <configuration name="Decryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.Decryption" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
+          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.EvenDigits" />
+    <configuration name="DefangIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.DefangIP" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
+          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlippingImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.FlippingImage" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
+          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.MaximumSubArray" />
+    <configuration name="ParserInterpretation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.ParserInterpretation" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
+          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Arrays.TwoSum" />
+    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.ShuffleString" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.Arrays.*" />
+          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumSubArray" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.ArrayFormInteger" />
-        <item itemvalue="Application.EvenDigits" />
-        <item itemvalue="Application.FlippingImage" />
+        <item itemvalue="Application.Decryption" />
+        <item itemvalue="Application.ParserInterpretation" />
+        <item itemvalue="Application.ShuffleString" />
+        <item itemvalue="Application.DefangIP" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751296660902</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1752034751780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752034751780</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +274,12 @@
     <MESSAGE value="Basic Java" />
     <MESSAGE value="Conditionals" />
     <MESSAGE value=" Functions and methods" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Functions and methods" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$PerfectSquare.ic" NAME="PerfectSquare Coverage Results" MODIFIED="1752154404587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>AnshulsJava.Searching.BinarySearch.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -22,10 +22,10 @@ public class Two_D_Array {
 		// inputs in a 2D Array
 		Scanner input = new Scanner(System.in);
 
-		for(int i = 0; i<arr.length; i++){
-			for(int j = 0; j<arr[i].length; j++){
-				System.out.print("Enter the value of arr " + i + " " + j + " : ");
-				arr[i][j] = input.nextInt();
+		for(int row = 0; row<arr.length; row++){
+			for(int col = 0; col<arr[row].length; col++){
+				System.out.print("Enter the value of arr " + row + " " + col + " : ");
+				arr[row][col] = input.nextInt();
 			}
 		}
 

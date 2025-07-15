@@ -31,5 +31,10 @@ public class TypeCasting {
 
 		// If two different data types are used in an operation,
 		// Java promotes the smaller type to the larger one automatically
+
+		int num5 = 11;
+		char st = (char)(num5 + 96);
+		System.out.println(st);
+
 	}
 }

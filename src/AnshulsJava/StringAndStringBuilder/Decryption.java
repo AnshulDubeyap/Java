@@ -1,17 +1,5 @@
 package AnshulsJava.StringAndStringBuilder;
 
-
-
-
-
-// try it later
-
-
-
-
-
-
-
 public class Decryption {
 //	Input: s = "10#11#12"
 //	Output: "jkab"
@@ -23,25 +11,54 @@ public class Decryption {
 	public static void main(String[] args) {
 
 		String message = "10#11#12";
-		StringBuilder decryption = new StringBuilder();
 
-		for(int i = 0; i<message.length(); i++){
+		String decrypt = DecryptString(message);
+
+		System.out.println(decrypt);
+
+	}
+	static String DecryptString(String message){
+		String decrypt = "";
+
+		for(int i = 0; i<=message.length(); i++){
 			char ch = message.charAt(i);
 
 			if(ch == '#'){
-				StringBuilder str = new StringBuilder();
-				str.append(message.charAt(i-2));
-				str.append(message.charAt(i-1));
+				int num = 2;
+				String dh = "";
+				while(num > 0){
+					dh = dh +  message.charAt(i-num);
+					num = num - 1;
+				}
+				int charNum = Integer.parseInt(dh);
+				char eh = (char)(charNum + 96);
 
-				int num = Integer.parseInt(str.toString());
-				char add = (char) ('a' + num - 1);
-
-				decryption.append(add);
+				decrypt = decrypt + eh;
 			}
+
+			if(message.charAt(i) != '#' && i == message.length() ){
+				int count = 0;
+				int num = message.length() - 1;
+				int num2 = message.length() - 1;
+				String dh = "";
+				while(message.charAt(num) != '#'){
+					count++;
+					num--;
+				}
+
+				for(int j = 0; j<= count; j++){
+					dh = dh + message.charAt(num2);
+				}
+				int charNum = Integer.parseInt(dh);
+				char eh = (char)(charNum + 96);
+				decrypt = decrypt + eh;
+
+			}
+
 
 
 		}
 
-		System.out.println(decryption);
+		return decrypt;
 	}
 }

@@ -4,45 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="Arrays">
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/ReverseWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/BinaryIn2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/FindSmallestGreaterThanTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/KthMissingPositiveInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/MountainPeakValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/NAndItsDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/NegativeNumbersInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/PerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/BinarySearch/TargetSumOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/LinearSearch/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/LinearSearch/LinearSearchIn2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/LinearSearch/MinimumIn2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Searching/LinearSearch/WealthiestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/Decryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/DefangIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/EquivalentStringArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ExcelSheetTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/HalfStringsAlike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LengthOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LongPressedWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MaximumRepeatingSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MergeStringsAlternately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ParserInterpretation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ReversePrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ShuffleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/SortTheSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ValidParentheses.java" afterDir="false" />
+    <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="Strings and Arrays">
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/MultiLevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/MultipleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/OopsDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Arrays/FirstAndLastPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/FirstAndLastPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Arrays/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Arrays/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/SortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Two_D_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Arrays/Two_D_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Baisc/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Baisc/TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/Decryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/Decryption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/EquivalentStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/EquivalentStringArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ExcelSheetTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ExcelSheetTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LengthOfLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LengthOfLastWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LongPressedWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LongPressedWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MaximumRepeatingSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MaximumRepeatingSubString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,27 +68,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnshulsJava.OOps.Main.executor": "Run",
     "Application.ArrayFormInteger.executor": "Run",
     "Application.BinaryIn2D.executor": "Run",
     "Application.BinarySearch.executor": "Run",
+    "Application.Constructor.executor": "Run",
     "Application.Decryption.executor": "Run",
     "Application.DefangIP.executor": "Run",
     "Application.DynamicArray.executor": "Run",
+    "Application.EquivalentStringArrays.executor": "Run",
     "Application.EvenDigits.executor": "Run",
+    "Application.ExcelSheetTitle.executor": "Run",
     "Application.FindSmallestGreaterThanTarget.executor": "Run",
     "Application.FirstAndLastPosition.executor": "Run",
     "Application.FlippingImage.executor": "Run",
     "Application.GoodPairs.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InnerClass.executor": "Run",
+    "Application.InnerClass2.executor": "Run",
+    "Application.LengthOfLastWord.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.LinearSearchIn2D.executor": "Run",
+    "Application.LongPressedWords.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Max.executor": "Run",
+    "Application.MaximumRepeatingSubString.executor": "Run",
     "Application.MaximumSubArray.executor": "Run",
     "Application.MinimumIn2D.executor": "Run",
     "Application.NumbersSmallerThanCurrent.executor": "Run",
+    "Application.OopsDefinitions.executor": "Run",
     "Application.Pangram.executor": "Run",
     "Application.ParserInterpretation.executor": "Run",
     "Application.PerfectSquare.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
     "Application.PrimeBetweenTwoNumbers.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.Reverse.executor": "Run",
@@ -120,6 +112,7 @@
     "Application.TargetSumOfTwo.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.Two_D_Array.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
     "Application.WealthiestPerson.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -135,13 +128,13 @@
       <recent name="AnshulsJava.Searching.BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Decryption">
-    <configuration name="Decryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.Decryption" />
+  <component name="RunManager" selected="Application.Polymorphism">
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.Inheritance" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefangIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.DefangIP" />
+    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.InnerClass" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.Main" />
+    <configuration name="InnerClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.InnerClass2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParserInterpretation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.ParserInterpretation" />
+    <configuration name="OopsDefinitions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.OopsDefinitions" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.StringAndStringBuilder.ShuffleString" />
+    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.Polymorphism" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.StringAndStringBuilder.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Decryption" />
-        <item itemvalue="Application.ParserInterpretation" />
-        <item itemvalue="Application.ShuffleString" />
-        <item itemvalue="Application.DefangIP" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Polymorphism" />
+        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.InnerClass2" />
+        <item itemvalue="Application.InnerClass" />
+        <item itemvalue="Application.OopsDefinitions" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752034751780</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Strings and Arrays">
+      <option name="closed" value="true" />
+      <created>1752302223921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752302223921</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +276,8 @@
     <MESSAGE value="Conditionals" />
     <MESSAGE value=" Functions and methods" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Strings and Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strings and Arrays" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java$PerfectSquare.ic" NAME="PerfectSquare Coverage Results" MODIFIED="1752154404587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

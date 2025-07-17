@@ -5,24 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="Strings and Arrays">
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/MultiLevelInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/MultipleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/OopsDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Annotations/CustomAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Annotations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Annotations/MarkerAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Concurrency/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Enemuration/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Enemuration/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Serialization/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Serialization/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClasses/AbstractClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClasses/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClasses/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClasses/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AccessModifiers/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AccessModifiers/Anshul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AccessModifiers/Anshul1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Annotations/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Annotations/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Annotations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/EncapsulationAndAbstraction/EncapsulationAndAbstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ExceptionHandling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ExceptionHandling/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Generics/ComparingObjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Generics/ComparingObjects/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Generics/CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Generics/GenericCustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Generics/LambdaFunctions/LambdaFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/CarBrakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/CarEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/CarMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ObjectClass/ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ObjectCloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ObjectCloning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/FirstUppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/PalindromicPartitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/RemoveConsecutiveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/SumTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Baisc/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Baisc/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/Decryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/Decryption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/EquivalentStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/EquivalentStringArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ExcelSheetTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ExcelSheetTitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LengthOfLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LengthOfLastWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LongPressedWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/LongPressedWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MaximumRepeatingSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MaximumRepeatingSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Constructors/Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerclassAndStatic/InnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerclassAndStatic/InnerClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/BasicOpps/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/MultiLevelInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/MultiLevelInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/MultipleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/MultipleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/OopsDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/BasicOpps/OopsDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/SingletonClass/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Recursion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Recursion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MergeStringsAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/MergeStringsAlternately.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ReversePrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/StringAndStringBuilder/ReversePrefix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +69,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -68,14 +106,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractClasses.executor": "Run",
+    "Application.AccessModifiers.executor": "Run",
+    "Application.Anshul.executor": "Run",
+    "Application.Anshul1.executor": "Run",
+    "Application.AnshulsAdvanceJava.Enemuration.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.Serialization.Main.executor": "Run",
+    "Application.AnshulsJava.OOps.Annotations.Main.executor": "Run",
+    "Application.AnshulsJava.OOps.Generics.ComparingObjects.Main.executor": "Run",
     "Application.AnshulsJava.OOps.Main.executor": "Run",
+    "Application.AnshulsJava.OOps.ObjectCloning.Main.executor": "Run",
+    "Application.AnshulsJava.Recursion.Main.executor": "Run",
     "Application.ArrayFormInteger.executor": "Run",
     "Application.BinaryIn2D.executor": "Run",
     "Application.BinarySearch.executor": "Run",
+    "Application.Car.executor": "Run",
     "Application.Constructor.executor": "Run",
+    "Application.CustomArrayList.executor": "Run",
     "Application.Decryption.executor": "Run",
     "Application.DefangIP.executor": "Run",
     "Application.DynamicArray.executor": "Run",
+    "Application.EncapsulationAndAbstraction.executor": "Run",
     "Application.EquivalentStringArrays.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.ExcelSheetTitle.executor": "Run",
@@ -86,6 +137,7 @@
     "Application.Inheritance.executor": "Run",
     "Application.InnerClass.executor": "Run",
     "Application.InnerClass2.executor": "Run",
+    "Application.LambdaFunctions.executor": "Run",
     "Application.LengthOfLastWord.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.LinearSearchIn2D.executor": "Run",
@@ -94,8 +146,10 @@
     "Application.Max.executor": "Run",
     "Application.MaximumRepeatingSubString.executor": "Run",
     "Application.MaximumSubArray.executor": "Run",
+    "Application.MergeStringsAlternately.executor": "Run",
     "Application.MinimumIn2D.executor": "Run",
     "Application.NumbersSmallerThanCurrent.executor": "Run",
+    "Application.ObjectClass.executor": "Run",
     "Application.OopsDefinitions.executor": "Run",
     "Application.Pangram.executor": "Run",
     "Application.ParserInterpretation.executor": "Run",
@@ -104,6 +158,7 @@
     "Application.PrimeBetweenTwoNumbers.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.Reverse.executor": "Run",
+    "Application.ReversePrefix.executor": "Debug",
     "Application.ReverseWordsInString.executor": "Run",
     "Application.Shuffle.executor": "Run",
     "Application.ShuffleString.executor": "Run",
@@ -128,13 +183,13 @@
       <recent name="AnshulsJava.Searching.BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Polymorphism">
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.Inheritance" />
+  <component name="RunManager" selected="Application.AnshulsAdvanceJava.Serialization.Main">
+    <configuration name="AnshulsAdvanceJava.Enemuration.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.Enemuration.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.*" />
+          <option name="PATTERN" value="AnshulsAdvanceJava.Enemuration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.InnerClass" />
+    <configuration name="AnshulsAdvanceJava.Serialization.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.Serialization.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.*" />
+          <option name="PATTERN" value="AnshulsAdvanceJava.Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.InnerClass2" />
+    <configuration name="AnshulsJava.OOps.ObjectCloning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.ObjectCloning.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.ObjectCloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OopsDefinitions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.OopsDefinitions" />
+    <configuration name="AnshulsJava.Recursion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Recursion.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.*" />
+          <option name="PATTERN" value="AnshulsJava.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.Polymorphism" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Recursion.BinarySearch" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.*" />
+          <option name="PATTERN" value="AnshulsJava.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Polymorphism" />
-        <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.InnerClass2" />
-        <item itemvalue="Application.InnerClass" />
-        <item itemvalue="Application.OopsDefinitions" />
+        <item itemvalue="Application.AnshulsAdvanceJava.Serialization.Main" />
+        <item itemvalue="Application.AnshulsAdvanceJava.Enemuration.Main" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.AnshulsJava.Recursion.Main" />
+        <item itemvalue="Application.AnshulsJava.OOps.ObjectCloning.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752302223921</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Strings and Arrays">
+      <option name="closed" value="true" />
+      <created>1752608645321</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752608645321</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

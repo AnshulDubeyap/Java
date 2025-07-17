@@ -1,4 +1,4 @@
-package AnshulsJava.OOps;
+package AnshulsJava.OOps.SingletonClass;
 
 public class Singleton {
 	// Class can have only one object

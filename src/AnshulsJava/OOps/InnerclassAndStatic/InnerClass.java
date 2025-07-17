@@ -1,4 +1,4 @@
-package AnshulsJava.OOps;
+package AnshulsJava.OOps.InnerclassAndStatic;
 
 // Outside Class can never be a static class, but inside class can be a static class
 

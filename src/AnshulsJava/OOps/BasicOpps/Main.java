@@ -1,4 +1,4 @@
-package AnshulsJava.OOps;
+package AnshulsJava.OOps.BasicOpps;
 
 public class Main {
 	public static void main(String[] args) {

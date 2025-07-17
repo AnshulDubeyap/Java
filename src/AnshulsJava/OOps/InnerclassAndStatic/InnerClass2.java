@@ -1,4 +1,4 @@
-package AnshulsJava.OOps;
+package AnshulsJava.OOps.InnerclassAndStatic;
 
 class Test{
 	static String name; // static variable, shared by all objects (remains similar for all objects)

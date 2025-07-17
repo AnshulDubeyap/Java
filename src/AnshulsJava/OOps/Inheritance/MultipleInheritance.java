@@ -1,4 +1,4 @@
-package AnshulsJava.OOps;
+package AnshulsJava.OOps.Inheritance;
 
 class A{
 	String nameOfA;

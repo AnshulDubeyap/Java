@@ -1,4 +1,4 @@
-package AnshulsJava.OOps;
+package AnshulsJava.OOps.Polymorphism;
 
 class Shape{
 	void area(){
@@ -34,7 +34,7 @@ class Numbers {
 		System.out.println(a + b);
 	}
 
-	void sum(int a, int b, int c) {
+	final void sum(int a, int b, int c) { // 'final' keyword means that this method cannot be overridden
 		System.out.println(a + b + c);
 	}
 }

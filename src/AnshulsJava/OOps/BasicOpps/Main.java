@@ -3,6 +3,7 @@ package AnshulsJava.OOps.BasicOpps;
 public class Main {
 	public static void main(String[] args) {
 		// Class is a named group of properties and values
+		// Class is like an entity which has some attributes (properties, data, characteristics) and behaviour (actions, function, methods)
 
 		// An Array student of the Type Student class can hold 5 students
 		Student[] student = new Student[5];

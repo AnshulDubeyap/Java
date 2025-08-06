@@ -19,8 +19,6 @@ public class Main {
 		// Query
 		String sql = "insert into student.student_data (roll, name, age)" + "values(" + rollNo + ", '" + name + "', " + age + ")";
 
-
-
 		try (
 				// Get the connection using DriverManager
 		     Connection con = DriverManager.getConnection(url, user, password);

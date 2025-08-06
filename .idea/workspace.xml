@@ -5,27 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="AdvanceJava and Opps">
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/AutoBoxingAndUnBoxing/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Concurrency/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Concurrency/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Concurrency/ThreadsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/FileHandling/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/FileHandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/JDBC/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Synchronization/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Synchronization/MathUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Synchronization/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Synchronization/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FileHandling/BufferByteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FileHandling/BufferCharacterStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FileHandling/ByteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/FileHandling/CharacterStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Generics/DualGenericHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/StringHandling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AccessModifiers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AccessModifiers/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ClassesAndObjects/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ClassesAndObjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ConstructorsAndThis/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ConstructorsAndThis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ConstructorsAndThis/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Encaspulation/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Encaspulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/AdvanceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/SuperCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/OverlodingAndOverriding/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/StaticKeyword/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/StaticKeyword/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Concurrency/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/BasicOpps/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/BasicOpps/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsAdvanceJava/JDBC/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/JDBC/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/AccessModifiers/AccessModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/AccessModifiers/Anshul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/AccessModifiers/Anshul1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/BasicOpps/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/BasicOpps/OopsDefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Constructors/Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/MultiLevelInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Inheritance/MultipleInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphismss/Polymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +92,19 @@
     "Application.Anshul1.executor": "Run",
     "Application.AnshulsAdvanceJava.AutoBoxingAndUnBoxing.Main.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Enemuration.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.Generics.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Serialization.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.StringHandling.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Synchronization.Main.executor": "Run",
+    "Application.AnshulsJava.OOps.AccessModifiers.Main.executor": "Run",
     "Application.AnshulsJava.OOps.Annotations.Main.executor": "Run",
+    "Application.AnshulsJava.OOps.ClassesAndObjects.Main.executor": "Run",
+    "Application.AnshulsJava.OOps.Encaspulation.Main.executor": "Run",
     "Application.AnshulsJava.OOps.Generics.ComparingObjects.Main.executor": "Run",
+    "Application.AnshulsJava.OOps.Inheritance.Main.executor": "Run",
     "Application.AnshulsJava.OOps.Main.executor": "Run",
     "Application.AnshulsJava.OOps.ObjectCloning.Main.executor": "Run",
+    "Application.AnshulsJava.OOps.StaticKeyword.Main.executor": "Run",
     "Application.AnshulsJava.Pattern.Main.executor": "Run",
     "Application.AnshulsJava.Recursion.Main.executor": "Run",
     "Application.ArrayFormInteger.executor": "Run",
@@ -98,6 +119,7 @@
     "Application.CustomArrayList.executor": "Run",
     "Application.Decryption.executor": "Run",
     "Application.DefangIP.executor": "Run",
+    "Application.DualGenericHolder.executor": "Run",
     "Application.DynamicArray.executor": "Run",
     "Application.EncapsulationAndAbstraction.executor": "Run",
     "Application.EquivalentStringArrays.executor": "Run",
@@ -168,13 +190,13 @@
       <recent name="AnshulsJava.Searching.BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BufferByteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FileHandling.BufferByteStream" />
+  <component name="RunManager" selected="Application.AnshulsJava.OOps.AccessModifiers.Main">
+    <configuration name="AnshulsJava.OOps.AccessModifiers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.AccessModifiers.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FileHandling.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferCharacterStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FileHandling.BufferCharacterStream" />
+    <configuration name="AnshulsJava.OOps.ClassesAndObjects.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.ClassesAndObjects.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FileHandling.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.ClassesAndObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FileHandling.ByteStream" />
+    <configuration name="AnshulsJava.OOps.Encaspulation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.Encaspulation.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FileHandling.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.Encaspulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.FileHandling.CharacterStream" />
+    <configuration name="AnshulsJava.OOps.Inheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.Inheritance.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.FileHandling.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +244,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.JDBC.Main" />
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.ConstructorsAndThis.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsAdvanceJava.JDBC.*" />
+          <option name="PATTERN" value="AnshulsJava.OOps.ConstructorsAndThis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnshulsJava.OOps.AccessModifiers.Main" />
+        <item itemvalue="Application.AnshulsJava.OOps.Inheritance.Main" />
+        <item itemvalue="Application.AnshulsJava.OOps.Encaspulation.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BufferCharacterStream" />
-        <item itemvalue="Application.BufferByteStream" />
-        <item itemvalue="Application.ByteStream" />
-        <item itemvalue="Application.CharacterStream" />
+        <item itemvalue="Application.AnshulsJava.OOps.ClassesAndObjects.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752763391428</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="AdvanceJava and Opps">
+      <option name="closed" value="true" />
+      <created>1754365477202</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754365477202</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,6 +373,22 @@
     <MESSAGE value="Strings and Arrays" />
     <MESSAGE value="AdvanceJava and Opps" />
     <option name="LAST_COMMIT_MESSAGE" value="AdvanceJava and Opps" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AnshulsAdvanceJava/JDBC/Main.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AnshulsAdvanceJava/JDBC/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java$PerfectSquare.ic" NAME="PerfectSquare Coverage Results" MODIFIED="1752154404587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

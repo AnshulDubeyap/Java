@@ -1,4 +1,4 @@
-package AnshulsJava.OOps.Interfaces;
+package AnshulsJava.OOps.Interface;
 
 public interface CarMedia {
 	// Car Media will have Two methods, Pause(), Play()

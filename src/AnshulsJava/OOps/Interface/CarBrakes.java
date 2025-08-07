@@ -1,4 +1,4 @@
-package AnshulsJava.OOps.Interfaces;
+package AnshulsJava.OOps.Interface;
 
 public interface CarBrakes {
 	// Car Brakes will have One method, Brake()

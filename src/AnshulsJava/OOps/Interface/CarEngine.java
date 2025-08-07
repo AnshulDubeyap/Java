@@ -1,4 +1,4 @@
-package AnshulsJava.OOps.Interfaces;
+package AnshulsJava.OOps.Interface;
 
 public interface CarEngine {
 	// Car Engine will have three methods, Start, Stop, Accelerate, and variable price

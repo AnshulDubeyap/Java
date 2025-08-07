@@ -1,4 +1,4 @@
-package AnshulsJava.OOps.Interfaces;
+package AnshulsJava.OOps.Interface;
 
 // Car needs CarEngine, CarBrakes, CarMedia — but if these were classes, Java would give an error due to no multiple inheritance
 // So, we use interfaces

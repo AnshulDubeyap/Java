@@ -5,50 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="AdvanceJava and Opps">
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClass/CarDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Enemuration/Laptops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Enemuration/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Enemuration/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/FunctionalInterfaceAndLamdaExpression/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass/AnonymousInnerClass/Class_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass/AnonymousInnerClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass/AnonymousInnerClassAndAbstractClass/Class_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass/AnonymousInnerClassAndAbstractClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass/Class_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism/Class_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism/Class_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism/Class_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/UpcastingAndDowncasting/Class_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/UpcastingAndDowncasting/Class_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/UpcastingAndDowncasting/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/UseOfAbstractClassAndInterface/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/UseOfAbstractClassAndInterface/Desktop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/UseOfAbstractClassAndInterface/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/UseOfAbstractClassAndInterface/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/UseOfAbstractClassAndInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/CollectionAPI/Collections/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/CollectionAPI/Sorting/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/CollectionAPI/Sorting/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Class_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Class_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Class_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Class_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/ThreadByInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/ThreadMethods/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/ThreadMethods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/ThreadStates/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClasses/AbstractClasses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClasses/Daughter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClasses/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/AbstractClasses/Son.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/EncapsulationAndAbstraction/EncapsulationAndAbstraction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerclassAndStatic/InnerClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/InnerclassAndStatic/InnerClass2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interface/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/CarBrakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interface/CarBrakes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/CarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interface/CarEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/CarMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interface/CarMedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Interface/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphism/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/Polymorphismss/Polymorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/SuperAndThis/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/ExceptionHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ExceptionHandling/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -101,11 +71,14 @@
     "Application.Anshul.executor": "Run",
     "Application.Anshul1.executor": "Run",
     "Application.AnshulsAdvanceJava.AutoBoxingAndUnBoxing.Main.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.CollectionAPI.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.CollectionAPI.Sorting.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Enemuration.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Generics.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Serialization.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.StringHandling.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Synchronization.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.ThreadMethods.Main.executor": "Run",
     "Application.AnshulsJava.OOps.AccessModifiers.Main.executor": "Run",
     "Application.AnshulsJava.OOps.Annotations.Main.executor": "Run",
     "Application.AnshulsJava.OOps.ClassesAndObjects.Main.executor": "Run",
@@ -207,7 +180,46 @@
       <recent name="AnshulsJava.Searching.BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnshulsJava.OOps.Enemuration.Main">
+  <component name="RunManager" selected="Application.AnshulsAdvanceJava.CollectionAPI.Sorting.Main">
+    <configuration name="AnshulsAdvanceJava.CollectionAPI.Collections.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.CollectionAPI.Collections.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AnshulsAdvanceJava.CollectionAPI.Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnshulsAdvanceJava.CollectionAPI.Sorting.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.CollectionAPI.Sorting.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AnshulsAdvanceJava.CollectionAPI.Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnshulsAdvanceJava.Threads.ThreadMethods.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.Threads.ThreadMethods.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AnshulsAdvanceJava.Threads.ThreadMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AnshulsJava.OOps.Enemuration.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.Enemuration.Main" />
       <module name="Java" />
@@ -221,51 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnshulsJava.OOps.InnerClass.AnonymousInnerClassAndAbstractClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.InnerClass.AnonymousInnerClassAndAbstractClass.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.Threads.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.InnerClass.AnonymousInnerClassAndAbstractClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnshulsJava.OOps.InnerClass.AnonymousInnerClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.InnerClass.AnonymousInnerClass.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.InnerClass.AnonymousInnerClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnshulsJava.OOps.InnerClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.InnerClass.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.InnerClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnshulsJava.OOps.UseOfAbstractClassAndInterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.UseOfAbstractClassAndInterface.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.UseOfAbstractClassAndInterface.*" />
+          <option name="PATTERN" value="AnshulsAdvanceJava.Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnshulsAdvanceJava.CollectionAPI.Sorting.Main" />
+        <item itemvalue="Application.AnshulsAdvanceJava.CollectionAPI.Collections.Main" />
+        <item itemvalue="Application.AnshulsAdvanceJava.Threads.ThreadMethods.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.AnshulsJava.OOps.Enemuration.Main" />
-        <item itemvalue="Application.AnshulsJava.OOps.UseOfAbstractClassAndInterface.Main" />
-        <item itemvalue="Application.AnshulsJava.OOps.InnerClass.AnonymousInnerClassAndAbstractClass.Main" />
-        <item itemvalue="Application.AnshulsJava.OOps.InnerClass.AnonymousInnerClass.Main" />
-        <item itemvalue="Application.AnshulsJava.OOps.InnerClass.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754494361697</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="AdvanceJava and Opps">
+      <option name="closed" value="true" />
+      <created>1754567745973</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1754567745973</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

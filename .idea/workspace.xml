@@ -4,21 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="AdvanceJava and Opps">
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/CollectionAPI/Collections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/CollectionAPI/Sorting/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/CollectionAPI/Sorting/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Class_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Class_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Class_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Class_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/ThreadByInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/ThreadMethods/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/ThreadMethods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Threads/ThreadStates/Main.java" afterDir="false" />
+    <list default="true" id="ee869b71-776b-4c31-a156-84c2fcd6c860" name="Changes" comment="Threads and Collections">
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/LVTI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/StreamAPI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Sorting/BubbleSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Sorting/InsertionSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Sorting/MergeSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Sorting/QuickSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnshulsJava/Sorting/SelectionSort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/OOps/ExceptionHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/OOps/ExceptionHandling/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsAdvanceJava/CollectionAPI/Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/CollectionAPI/Collections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Serialization/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsAdvanceJava/Serialization/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/CaseCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnshulsJava/Conditionals/CaseCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,10 @@
     "Application.AnshulsAdvanceJava.CollectionAPI.Sorting.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Enemuration.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Generics.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.LVTI.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Serialization.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.StreamAPI.Main.executor": "Run",
+    "Application.AnshulsAdvanceJava.StreamClass.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.StringHandling.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.Synchronization.Main.executor": "Run",
     "Application.AnshulsAdvanceJava.ThreadMethods.Main.executor": "Run",
@@ -97,6 +98,9 @@
     "Application.AnshulsJava.OOps.UpcastingAndDowncasting.Main.executor": "Run",
     "Application.AnshulsJava.Pattern.Main.executor": "Run",
     "Application.AnshulsJava.Recursion.Main.executor": "Run",
+    "Application.AnshulsJava.Sorting.InsertionSort.Main.executor": "Run",
+    "Application.AnshulsJava.Sorting.MergeSort.Main.executor": "Run",
+    "Application.AnshulsJava.Sorting.SelectionSort.Main.executor": "Run",
     "Application.ArrayFormInteger.executor": "Run",
     "Application.BinaryIn2D.executor": "Run",
     "Application.BinarySearch.executor": "Run",
@@ -164,10 +168,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -180,13 +184,13 @@
       <recent name="AnshulsJava.Searching.BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnshulsAdvanceJava.CollectionAPI.Sorting.Main">
-    <configuration name="AnshulsAdvanceJava.CollectionAPI.Collections.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.CollectionAPI.Collections.Main" />
+  <component name="RunManager" selected="Application.AnshulsJava.Sorting.MergeSort.Main">
+    <configuration name="AnshulsAdvanceJava.LVTI.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.LVTI.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsAdvanceJava.CollectionAPI.Collections.*" />
+          <option name="PATTERN" value="AnshulsAdvanceJava.LVTI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnshulsAdvanceJava.CollectionAPI.Sorting.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.CollectionAPI.Sorting.Main" />
+    <configuration name="AnshulsJava.Sorting.InsertionSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Sorting.InsertionSort.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsAdvanceJava.CollectionAPI.Sorting.*" />
+          <option name="PATTERN" value="AnshulsJava.Sorting.InsertionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnshulsAdvanceJava.Threads.ThreadMethods.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.Threads.ThreadMethods.Main" />
+    <configuration name="AnshulsJava.Sorting.MergeSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Sorting.MergeSort.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsAdvanceJava.Threads.ThreadMethods.*" />
+          <option name="PATTERN" value="AnshulsJava.Sorting.MergeSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnshulsJava.OOps.Enemuration.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsJava.OOps.Enemuration.Main" />
+    <configuration name="AnshulsJava.Sorting.SelectionSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Sorting.SelectionSort.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsJava.OOps.Enemuration.*" />
+          <option name="PATTERN" value="AnshulsJava.Sorting.SelectionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +238,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnshulsAdvanceJava.Threads.Main" />
+      <option name="MAIN_CLASS_NAME" value="AnshulsJava.Sorting.BubbleSort.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnshulsAdvanceJava.Threads.*" />
+          <option name="PATTERN" value="AnshulsJava.Sorting.BubbleSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnshulsAdvanceJava.CollectionAPI.Sorting.Main" />
-        <item itemvalue="Application.AnshulsAdvanceJava.CollectionAPI.Collections.Main" />
-        <item itemvalue="Application.AnshulsAdvanceJava.Threads.ThreadMethods.Main" />
+        <item itemvalue="Application.AnshulsJava.Sorting.MergeSort.Main" />
+        <item itemvalue="Application.AnshulsJava.Sorting.InsertionSort.Main" />
+        <item itemvalue="Application.AnshulsJava.Sorting.SelectionSort.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AnshulsJava.OOps.Enemuration.Main" />
+        <item itemvalue="Application.AnshulsAdvanceJava.LVTI.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754567745973</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Threads and Collections">
+      <option name="closed" value="true" />
+      <created>1754659345572</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754659345572</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +390,8 @@
     <MESSAGE value="Arrays" />
     <MESSAGE value="Strings and Arrays" />
     <MESSAGE value="AdvanceJava and Opps" />
-    <option name="LAST_COMMIT_MESSAGE" value="AdvanceJava and Opps" />
+    <MESSAGE value="Threads and Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Threads and Collections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -66,7 +66,7 @@ public class Main {
 		nums2.add(2);
 		nums2.add(3);
 		nums2.add(4);
-		nums2.add(4); // duplicate, will be ignored
+		nums2.add(4);
 		nums2.add(5);
 		nums2.add(6);
 

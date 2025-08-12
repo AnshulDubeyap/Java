@@ -1,0 +1,8 @@
+Java Database Connection
+
+Step1: Import the java.sql package
+Step2: Register and load the driver
+Step3: establish a connection
+Step4: Create a statement
+Step5: Execute the query
+Step6: Close the connection

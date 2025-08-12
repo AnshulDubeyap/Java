@@ -1,0 +1,70 @@
+Important Commands in Git
+
+Various commands in Git (for windows)
+--> dir --> to list all files in a directory
+--> cd <dirname> --> to change directory
+--> mkdir <dirname> --> to create a directory
+--> rmdir <dirname> --> to remove a directory
+--> del <filename> --> to delete a file
+--> type <filename> --> to view a file
+--> git --version --> to check the version of git
+
+
+**// What's a commit? And why we use it.
+--> git commit is a command that allows you to record staged changes (added with git add) to your repository history
+It creates a snapshot of your project at a specific point in time
+
+
+**// What's a branch? And why we use it.
+--> git branch is a command that allows you to create, list, or delete branches. Branches are used to work on new features or fixes without affecting the main codebase.
+Modern Git uses main as the default branch instead of master
+
+How to initialize git in a directory?
+-->git init
+
+How to add a file to git?
+-->git add <filename> or git add. (to add all files at once)
+
+**// Can't we just delete a file? Form folder?
+--> No, we can't delete a file from git (if it's committed), we have to remove it from git, then delete it, then commit again
+
+How to remove a file from git?
+-->git rm <filename>
+
+How to commit a file?
+-->git commit -m "<message>" or git commit -a -m "<message>" (add and commit all files at once)
+
+How to undo a commit?
+-->git reset HEAD^
+
+How to connect to a remote repository?
+-->git remote add origin <url>
+
+How to push to a remote repository?
+-->git push origin master
+
+**// What's a pull? And why we use it.
+--> git pull is a command that allows you to fetch and merge changes from a remote repository into your local repository
+--> this is useful when you want to get the latest changes from a remote repository
+
+How to pull from a remote repository?
+-->git pull origin master
+
+**// What's a clone? And why we use it.
+--> git clone is a command that allows you to create a local copy of a remote repository
+--> this is useful when you want to work on a project that is already in a remote repository
+
+How to clone a remote repository?
+-->git clone <url>
+
+How to create a branch?
+-->git branch <name>
+
+How to switch to a branch?
+-->git checkout <name>
+
+How to delete a branch?
+-->git branch -d <name>
+
+How to merge a branch?
+-->git merge <name>

@@ -1,10 +1,15 @@
-package AnshulsAdvanceJava.JDBC;
+package JDBC;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
 public class Main {
+	// Inserting the data in the database using JDBC,
+	// but this is not the best practice, if we have 100 rows of data, we have to write a long query
+
+	// So for dynamic data coming from the user, we use PreparedStatement
+
 	public static void main(String[] args) {
 		// Correct JDBC URL with explicit port
 		String url = "jdbc:postgresql://localhost:5433/first";
@@ -12,8 +17,8 @@ public class Main {
 		String password = "Anshul@667";
 
 		// Sample data
-		int rollNo = 1;
-		String name = "Anshul";
+		int rollNo = 66;
+		String name = "Rahul";
 		float age = 22;
 
 		// Query
@@ -21,12 +26,12 @@ public class Main {
 
 		try (
 				// Get the connection using DriverManager
-		     Connection con = DriverManager.getConnection(url, user, password);
+				Connection con = DriverManager.getConnection(url, user, password);
 
-		     // Get the statement
-		     Statement st = con.createStatement()) {
+				// Get the statement
+				Statement st = con.createStatement()) {
 
-			// get the number of rows affected (output from executeUpdate)
+			// executeUpdate returns the number of rows affected (method inside the Statement interface)
 			int m = st.executeUpdate(sql);
 
 			if (m > 0) {
